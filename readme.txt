@@ -5,7 +5,7 @@ Where to start
 
 	Open the directory containing sources files: 
 
-	$ cd ~/ <program_dir>
+	$ cd <program_dir>
 
 
 Installation
