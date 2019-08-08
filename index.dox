@@ -1,0 +1,44 @@
+/*!
+
+*/
+
+/*!
+@mainpage PMS Assignment 3 
+
+This program provides simulation of sample data from ranging sensors, and print the fusion of data to the console with different modes and timing methods.
+
+@section ac_doc_index_more_info Where to start
+
+Open the directory containing sources files: 
+  \verbatim
+$ cd ~/ <program_dir>
+  \endverbatim
+
+@section ac_doc_install Installation
+
+@subsection ac_doc_step1 Step 1: Building directory
+
+Make build directory if it has not been done so:
+  \verbatim
+$ mkdir build
+  \endverbatim
+
+@subsection ac_doc_step2 Step 2: Creating applications
+    
+Create the application:
+
+  \verbatim
+$ cd build
+$ cmake ..
+$ make
+  \endverbatim
+
+@subsection ac_doc_step3 Step 3: Running applications
+
+Run the application:
+  \verbatim
+
+$ ./sensorThreading 
+  \endverbatim
+
+*/
