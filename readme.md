@@ -25,6 +25,6 @@ Build the application:
 
 3. Running applications
 ```
-	$ ./sensorThreading
+$ ./sensorThreading
 ```
 4. Press `Ctrl`+ `C` to stop sampling
