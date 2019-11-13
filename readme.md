@@ -9,22 +9,22 @@ Open the directory containing sources files:
 
 # Installation
 
-	Step 1: Building directory
+Step 1: Building directory
 
-		Make build directory if it has not been done so:
+Make build directory if it has not been done so:
 
-		$ mkdir build
+	$ mkdir build
 
-	Step 2: Creating applications
+Step 2: Creating applications
     
-		Create the application:
+Build the application:
 
-		$ cd build
-		$ cmake ..
-		$ make
+	$ cd build
+	$ cmake ..
+	$ make
 
-	Step 3: Running applications
+Step 3: Running applications
 
-		Run the application:
+$ ./sensorThreading
 
-		$ ./sensorThreading
+Press `Ctrl`+ `C` to stop sampling
