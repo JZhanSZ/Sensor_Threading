@@ -24,7 +24,7 @@ Build the application:
 	$ make
 
 3. Running applications
-
+```
 	$ ./sensorThreading
-
+```
 4. Press `Ctrl`+ `C` to stop sampling
