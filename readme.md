@@ -1,4 +1,4 @@
-This program provides simulation of sample data from ranging sensors, and print the fusion of data to the console with different modes and timing methods.
+This program provides random sampling data from ranging sensors, and print the fusion of data to the console with different modes and timing methods.
 
 # Where to start
 
