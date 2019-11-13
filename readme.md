@@ -7,7 +7,7 @@ Open the directory containing sources files:
 	$ cd <program_dir>
 
 
-# Installation
+# Running the program
 
 Step 1: Building directory
 
@@ -25,6 +25,6 @@ Build the application:
 
 Step 3: Running applications
 
-$ ./sensorThreading
+	$ ./sensorThreading
 
 Press `Ctrl`+ `C` to stop sampling
