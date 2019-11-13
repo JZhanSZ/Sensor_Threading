@@ -9,13 +9,13 @@ Open the directory containing sources files:
 
 # Running the program
 
-Step 1: Building directory
+1. Building directory
 
 Make build directory if it has not been done so:
 
 	$ mkdir build
 
-Step 2: Creating applications
+2. Creating applications
     
 Build the application:
 
@@ -23,8 +23,8 @@ Build the application:
 	$ cmake ..
 	$ make
 
-Step 3: Running applications
+3. Running applications
 
 	$ ./sensorThreading
 
-Press `Ctrl`+ `C` to stop sampling
+4. Press `Ctrl`+ `C` to stop sampling
